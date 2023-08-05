@@ -8,7 +8,7 @@
 	- Introduction to Refactoring.
 * Essentials of a readable program
 	- Meaningful names for variables, functions, classes, etc
-	- Names from problem domain, solution domain
+	- Names from the problem domain, solution domain
 	- Formatting: horizontal and vertical
 	- Explain yourself in code vs comments.
 * ‘Clean’ Functions
@@ -21,11 +21,11 @@
 * Handling dependencies & instantiation in clean code
 	- Separation of construction and use.
 	- Dependency injection.
-	- Cross cutting requirements.
+	- Cross-cutting requirements.
 * Technical Debt and Smells
 	- Understanding technical debt.
 	- Addressing technical debt.
 	- Code smells.
-	-   How to deal with the code smells.
+	-   How to deal with code smells.
 * Lab Sessions on concepts covered in the session.
-* Assessment Exam at end.
+* Assessment Exam at the end.
